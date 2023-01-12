@@ -1,2 +1,2 @@
 # project-html-css-based.github.io
-https://v-itmitm.github.io/allNotes/
+https://githubinfovikas.github.io/allNotes/
